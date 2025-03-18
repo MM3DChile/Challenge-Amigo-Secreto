@@ -1,5 +1,3 @@
-# Challenge-Amigo-Secreto
-Proyecto Amigo Secreto One Alura Grupo 8
 # Challenge Amigo Secreto - ONE
 El contenido de este repositorio está destinado para el __Challenge del programa Oracle Next Education-Grupo 8__
 
